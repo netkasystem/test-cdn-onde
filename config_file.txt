@@ -3,7 +3,7 @@
 [Update]
 Name = NNMX Agent                                                  
 ProductVersion = 1.0.0.1
-URL = http://www.example.com/downloads/mysetup.exe
+URL = https://github.com/netkasystem/cdn-onde/raw/main/mysetup.exe
 Size = 9597280
 SHA256 = 3E84C6400611AC430FE8A66EA8817E2905BC8EFDA1B41DBF5A6B8E4F5E24737C
 MD5 = ea579b5a666decf7a35b4a036d28658e
