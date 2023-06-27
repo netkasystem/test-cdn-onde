@@ -1,12 +1,12 @@
 ;aiu;
 
 [Update]
-Name = WindowsService3
-ProductVersion = 1.0.0
+Name = Your Service
+ProductVersion = 1.0.1
 URL = https://github.com/netkasystem/cdn-onde/raw/main/testservice.msi
 Size = 8013824
-SHA256 = 7A6CBFCF426C249A67F7F674343233B39E0F1A35C0E3303F0F0252A49BCD5B59
-MD5 = 3a93283fbe69f3ba3aaf0c5746db3136
+SHA256 = 97FBE4049A669538D1ECBF38743E90B75FD53B06DC27663A2D4E0C0A4081512A
+MD5 = c28eeae82e7d043504bfb422c86e8723
 ServerFileName = testservice.msi
 RegistryKey = HKUD\Software\WindowsService3\Version
 Version = 1.0.0
