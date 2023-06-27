@@ -8,5 +8,6 @@ Size = 8013824
 SHA256 = 97FBE4049A669538D1ECBF38743E90B75FD53B06DC27663A2D4E0C0A4081512A
 MD5 = c28eeae82e7d043504bfb422c86e8723
 ServerFileName = testservice.msi
+Flags = IsPatch
 RegistryKey = HKUD\Software\WindowsService3\Version
 Version = 1.0.0
