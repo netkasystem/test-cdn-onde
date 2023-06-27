@@ -4,9 +4,9 @@
 Name = WindowsService3
 ProductVersion = 1.0.0.0
 URL = https://github.com/netkasystem/cdn-onde/raw/main/WindowsService3.exe
-Size = 6144
-SHA256 = 321E41583C9C38C9CB618A11FE61EFC99AD1461F06DD3F19FCFF421BE114CFEC
-MD5 = a3a03b9c36badefe84abc98a3256fc57
+Size = 5632
+SHA256 = F7233D89C6150C965F9BCFF9ACBFEF9FD06379BFC369553DFE3197A76896CC7F
+MD5 = 9c04851f49dfba57f433843ff3618226
 ServerFileName = WindowsService3.exe
 RegistryKey = HKUD\Software\WindowsService3\Version
 Version = 1.0.0.0
