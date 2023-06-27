@@ -2,11 +2,11 @@
 
 [Update]
 Name = WindowsService3
-ProductVersion = 1.0.0.0
-URL = https://github.com/netkasystem/cdn-onde/raw/main/WindowsService3.exe
-Size = 5632
-SHA256 = F7233D89C6150C965F9BCFF9ACBFEF9FD06379BFC369553DFE3197A76896CC7F
-MD5 = 9c04851f49dfba57f433843ff3618226
-ServerFileName = WindowsService3.exe
+ProductVersion = 1.0.0
+URL = https://github.com/netkasystem/cdn-onde/raw/main/testservice.msi
+Size = 8013824
+SHA256 = 7A6CBFCF426C249A67F7F674343233B39E0F1A35C0E3303F0F0252A49BCD5B59
+MD5 = 3a93283fbe69f3ba3aaf0c5746db3136
+ServerFileName = testservice.msi
 RegistryKey = HKUD\Software\WindowsService3\Version
-Version = 1.0.0.0
+Version = 1.0.0
